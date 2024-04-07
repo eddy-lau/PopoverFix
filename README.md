@@ -1,4 +1,6 @@
-# Popover
+# PopoverFix
+
+This is a fork of the original [Popover](https://github.com/corin8823/Popover) with the [Xcode 14.3 or above libarc problem](https://stackoverflow.com/questions/75574268/missing-file-libarclite-iphoneos-a-xcode-14-3) fixed.
 
 [![CI Status](http://img.shields.io/travis/corin8823/Popover.svg?style=flat)](https://travis-ci.org/corin8823/Popover)
 [![Version](https://img.shields.io/cocoapods/v/Popover.svg?style=flat)](http://cocoapods.org/pods/Popover)
